@@ -1,4 +1,4 @@
-# Recomender-System
+# Recommender-System
 1. Install anaconda
 2. Install scikit-surprise
 3. Download zip folder of the repository
